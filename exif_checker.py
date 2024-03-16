@@ -24,5 +24,7 @@ def print_exif_data(directory):
             print("\n")
 
 # Example usage
-directory = "./path_to_extracted_frames"  # Replace with the path to your directory containing the frames
+# Example usage
+directory = "C:/Saikumar/Projects/geotagger/DJI_0055_frames"  # Replace with your directory path
 print_exif_data(directory)
+
