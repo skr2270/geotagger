@@ -27,4 +27,3 @@ def print_exif_data(directory):
 # Example usage
 directory = "C:/Saikumar/Projects/geotagger/DJI_0055_frames"  # Replace with your directory path
 print_exif_data(directory)
-
